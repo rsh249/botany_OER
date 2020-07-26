@@ -14,7 +14,8 @@ https://botanydepot.com/
 
 Lessons:
 -- Pollination https://learn.genetics.utah.edu/content/flowers/pollinators/
-
+-- Defense https://learn.genetics.utah.edu/content/herbivores/defenses/
+-- Toxins https://learn.genetics.utah.edu/content/herbivores/planttoxins/
 
 
 Videos:
